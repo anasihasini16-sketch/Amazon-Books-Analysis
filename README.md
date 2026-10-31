@@ -1,14 +1,26 @@
-# Amazon Best-Selling Books Analysis
+# 📚 Amazon Best-Selling Books Analysis
 
-## Project Overview
+### Data Analysis and Visualization using Python
 
-This project analyzes Amazon's Top 50 Best-Selling Books
-from 2009 to 2019 using Python.
+## 📌 Project Overview
 
-The main purpose is to identify popular authors, book
-ratings, prices, genres and yearly trends.
+This project explores Amazon's Top 50 Best-Selling Books
+dataset from 2009 to 2019.
 
-## Technologies Used
+Using Python, I analyzed book ratings, authors, prices,
+genres and yearly trends to discover useful insights
+from the dataset.
+
+## 🎯 Project Objectives
+
+- Analyze best-selling books.
+- Identify popular authors.
+- Understand book rating distributions.
+- Compare Fiction and Non-Fiction books.
+- Analyze average book prices.
+- Explore yearly book trends.
+
+## 🛠️ Technologies Used
 
 - Python
 - Pandas
@@ -16,57 +28,40 @@ ratings, prices, genres and yearly trends.
 - Matplotlib
 - VS Code
 
-## Dataset
+## 📊 Project Visualizations
 
-The dataset contains information about approximately
-550 Amazon best-selling books.
+### 1. Fiction vs Non-Fiction Books
 
-It includes:
-- Book Name
-- Author
-- User Rating
-- Reviews
-- Price
-- Year
-- Genre
+![Genre Analysis](genre.png)
 
-## Project Features
+### 2. Top 5 Authors
 
-1. Dataset Loading
-2. Average Rating Analysis
-3. Average Price Analysis
-4. Top 5 Authors Identification
-5. Highest Rated Books
-6. Most Reviewed Books
-7. Fiction vs Non-Fiction Comparison
-8. Data Visualization
+![Top Authors](authors.png)
 
-## Graphs
+### 3. Book Ratings Analysis
 
-The project generates five graphs:
+![Book Ratings](ratings.png)
 
-1. Genre Analysis
-2. Top 5 Authors
-3. Book Ratings Analysis
-4. Average Book Price
-5. Best-Selling Books Per Year
+### 4. Average Book Price
 
-## How to Run
+![Book Price](price.png)
 
-Step 1: Install Python.
+### 5. Best-Selling Books Per Year
 
-Step 2: Install required libraries.
+![Yearly Trends](year.png)
 
-pip install -r requirements.txt
+## 📂 Project Structure
 
-Step 3: Run the Python program.
-
-python analysis.py
-
-## Conclusion
-
-This project helps understand Amazon book trends
-through data analysis and visualization.
-
-It provides useful insights into popular authors,
-book ratings, prices and genres.
+```text
+Amazon-Books-Analysis/
+│
+├── analysis.py
+├── bestsellers.csv
+├── requirements.txt
+├── README.md
+├── report.txt
+├── authors.png
+├── genre.png
+├── ratings.png
+├── price.png
+└── year.png
