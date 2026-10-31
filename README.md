@@ -1,4 +1,9 @@
 # 📚 Amazon Best-Selling Books Analysis
+![Python](https://img.shields.io/badge/Python-3.14-blue)
+![Pandas](https://img.shields.io/badge/Library-Pandas-purple)
+![NumPy](https://img.shields.io/badge/Library-NumPy-green)
+![Matplotlib](https://img.shields.io/badge/Visualization-Matplotlib-orange)
+![Status](https://img.shields.io/badge/Status-Completed-brightgreen)
 
 ### Data Analysis and Visualization using Python
 
