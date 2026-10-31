@@ -1,0 +1,128 @@
+PROJECT REPORT
+
+PROJECT TITLE:
+Amazon Best-Selling Books Analysis Using Python
+
+1. ABSTRACT
+
+This project analyzes Amazon's best-selling books from
+2009 to 2019 using Python.
+
+The project uses data analysis and visualization to
+identify popular authors, book ratings, prices and genres.
+
+2. INTRODUCTION
+
+Books are an important source of knowledge and learning.
+Analyzing book data helps us understand customer
+preferences and popular reading trends.
+
+This project uses Python libraries to analyze Amazon
+best-selling book information.
+
+3. PROBLEM STATEMENT
+
+It is difficult to manually analyze hundreds of books
+and identify popular authors, ratings and genres.
+
+This project solves the problem using Python-based
+data analysis and visualization.
+
+4. OBJECTIVES
+
+1. Analyze Amazon best-selling books.
+2. Identify the top five authors.
+3. Find the highest-rated books.
+4. Analyze book ratings.
+5. Compare Fiction and Non-Fiction books.
+6. Analyze average book prices.
+7. Understand yearly book trends.
+
+5. TECHNOLOGIES USED
+
+Python:
+Used as the main programming language.
+
+Pandas:
+Used for data analysis and manipulation.
+
+NumPy:
+Used for numerical operations.
+
+Matplotlib:
+Used for creating graphs and visualizations.
+
+VS Code:
+Used for writing and executing Python code.
+
+6. DATASET DESCRIPTION
+
+The dataset contains approximately 550 book records
+from 2009 to 2019.
+
+It contains the following attributes:
+
+- Book Name
+- Author
+- User Rating
+- Reviews
+- Price
+- Year
+- Genre
+
+7. IMPLEMENTATION
+
+The project is implemented using Python.
+
+First, the dataset is loaded using Pandas.
+
+Next, the program calculates average ratings,
+average prices and identifies popular authors.
+
+It also analyzes book genres and identifies
+the highest-rated and most-reviewed books.
+
+Finally, Matplotlib is used to generate five graphs.
+
+8. RESULTS AND ANALYSIS
+
+The dataset contains 550 book records.
+
+Fiction Books: 240
+
+Non-Fiction Books: 310
+
+The project generates five visualizations:
+
+1. Fiction vs Non-Fiction Books.
+2. Top Five Best-Selling Authors.
+3. Amazon Books Rating Analysis.
+4. Average Book Price by Genre.
+5. Best-Selling Books Per Year.
+
+9. CONCLUSION
+
+This project successfully analyzes Amazon's
+best-selling books using Python.
+
+It provides useful information about book ratings,
+popular authors, genres, prices and yearly trends.
+
+Data visualization makes the results easier
+to understand.
+
+10. FUTURE SCOPE
+
+1. Add an interactive web dashboard.
+2. Analyze customer reviews.
+3. Predict future book popularity.
+4. Add more recent book datasets.
+5. Build a book recommendation system.
+
+11. REFERENCES
+
+1. Python Documentation.
+2. Pandas Documentation.
+3. NumPy Documentation.
+4. Matplotlib Documentation.
+5. Amazon Best-Selling Books Dataset.
